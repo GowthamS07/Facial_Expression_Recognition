@@ -1,1 +1,1 @@
-# Face Detection using Multi Task cascading Convolutional Neural Networks (MTCNN)
+# Face Detection using Multi Task cascaded Convolutional Neural Networks (MTCNN)
